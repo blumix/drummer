@@ -1,3 +1,3 @@
 # Drummer
 
-### Extracting from polyphonic sample
+### Extracting instruments from polyphonic sample
